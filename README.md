@@ -4,7 +4,7 @@
 
 1. 以下のサイトに書かれているものを使用して解答する。
 
-https://www.tohoho-web.com/js/array.htm
+   https://www.tohoho-web.com/js/array.htm
 
 2. for と foreach は使用しない。
 
